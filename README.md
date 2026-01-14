@@ -8,7 +8,7 @@ pip install PyQt5 psutil asyncssh cryptography
 ### 1. Tổng Quan
 
 **Hosting proxy** là chương trình dùng hosting cpanel làm proxy cho máy tính để có thể giúp chúng ta vào mạng mượt mà hơn mỗi khi cá mập cắn cáp.
-Chương trình được viết bằng python,  để chạy chương trình hãy cài đặt các gói cần thiết sau:
+Chương trình được viết bằng python,  để chạy chương trình hãy cài đặt các gói cần thiết bằng câu lệnh codeBash ở trên
 
 ### 2. Các Tính Năng Nổi Bật
 
